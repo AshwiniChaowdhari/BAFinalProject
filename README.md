@@ -1,5 +1,6 @@
-# BAFinalProject
-https://rawgit.com/AshwiniChaowdhari/BAFinalProject/master/index.html
+# Trump Speech Analysis
+
+https://cdn.rawgit.com/AshwiniChaowdhari/TrumpSpeech/34499e09/index.html
 
 Summary:
 This memo describes the Donald Trump’s Speech analysis to check on the linguistic effectiveness.
